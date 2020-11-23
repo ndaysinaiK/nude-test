@@ -3,7 +3,7 @@
 This is an example of how to use the NudeNet model in a flutter app. 
 
 The pre-trained model can be found here https://github.com/notAI-tech/NudeNet
-
+The demo can be found here : https://drive.google.com/file/d/101SZligJpFSl72KTc0fBPJfL1ardb_jZ/view?usp=sharing
 
 Steps
 
@@ -63,7 +63,7 @@ Note: - The model is not 100% accurate, sometimes it detects a banana as an unsa
 
 Good luck!!!
 
-The demo ? email me at kabulo_nday@kookmin.ac.kr 
+The demo can be found here: https://drive.google.com/file/d/101SZligJpFSl72KTc0fBPJfL1ardb_jZ/view?usp=sharing 
 
 Credits :
  https://github.com/notAI-tech/NudeNet 
