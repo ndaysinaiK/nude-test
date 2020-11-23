@@ -63,7 +63,7 @@ Note: - The model is not 100% accurate, sometimes it detects a banana as an unsa
 
 Good luck!!!
 
-The demo ? email me at kabulo_nday@kookimn.ac.kr 
+The demo ? email me at kabulo_nday@kookmin.ac.kr 
 
 Credits :
  https://github.com/notAI-tech/NudeNet 
