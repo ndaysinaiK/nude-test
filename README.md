@@ -35,7 +35,6 @@ Steps
 
 
 8.Run: `flutter pub get`
-
 9. Go to android\app\build.gradle and add theses lines below `release {}`:
 
    `aaptOptions{`
