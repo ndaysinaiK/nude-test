@@ -50,9 +50,9 @@ Steps
 
 11. Restart your IDE (vscode, android studio, etc)
 
-12. Delete all the code in lib/main.dart and paste the lib/main.dart into your main.dart
+12. Delete all the code in lib/main.dart and paste my main.dart code into your main.dart
 
-13. Launch the app: `flutter run` 
+13. Save and launch the app: `flutter run` 
 
 
 Test it using nude photos and decent photos on your android smartphone or in the emulator.
