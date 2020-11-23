@@ -3,6 +3,7 @@
 This is an example of how to use the NudeNet model in a flutter app. 
 
 The pre-trained model can be found here https://github.com/notAI-tech/NudeNet
+
 The demo can be found here : https://drive.google.com/file/d/101SZligJpFSl72KTc0fBPJfL1ardb_jZ/view?usp=sharing
 
 Steps
