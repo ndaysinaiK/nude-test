@@ -51,7 +51,7 @@ Steps
 
 11. Restart your IDE (vscode, android studio, etc)
 
-12. Delete all the code in lib/main.dart and paste my main.dart code into your main.dart
+12. Delete all the code in lib/main.dart and paste my main.dart code into your main.dart. the mainv1.dart code supports the images from gallery or direct from camera
 
 13. Save and launch the app: `flutter run` 
 
